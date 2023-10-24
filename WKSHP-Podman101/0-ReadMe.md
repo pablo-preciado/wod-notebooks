@@ -35,13 +35,13 @@ This lab is intended to support a trial and error method so that, during the ses
 Expected duration : 120 minutes
 
 ## Reference documents
-When dealing with the installation and configuration of Docker, the first step  is to check the reference website http://docker.io/:
+When dealing with the installation and configuration of podman, the first step  is to check the reference website https://podman.io/get-started:
 
 At the start of each section, there is an estimate of how long it will take to complete.
 
 
 ## Lab flow
-The {{ BRANDINGWOD }} Workshops-on-Demand are delivered through a central point that allows a portable, dynamic version of the lab guides. Rather than using standard PDF files, which always end in copy / paste errors from the lab guide into the TS sessions, this year we decided to innovate and introduce a brand-new infrastructure. We will leverage a JupyterHub server on which all the different lab guides will be stored in a notebook format (*.ipynb).
+The {{ BRANDINGWOD }} Workshops-on-Demand are delivered through a central point that allows a portable, dynamic version of the lab guides. Rather than using standard PDF files, which always end in copy / paste errors from the lab guide into the TS sessions, we introduced a brand-new infrastructure. We leverage a JupyterHub server on which all the different lab guides will be stored in a notebook format (*.ipynb).
 
 In a nutshell, a notebook works as follows:
 
